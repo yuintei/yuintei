@@ -1,4 +1,6 @@
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuintei&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,nextjs)](https://skillicons.dev)
 
